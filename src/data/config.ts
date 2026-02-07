@@ -1,12 +1,12 @@
 const config = {
-  title: "Naresh Khatri | Full-Stack Developer",
+  title: "Rehan Haque | Full-Stack AI Developer",
   description: {
-    long: "Explore the portfolio of Naresh, a full-stack developer and creative technologist specializing in interactive web experiences, 3D animations, and innovative projects. Discover my latest work, including Coding Ducks, The Booking Desk, Ghostchat, and more. Let's build something amazing together!",
+    long: "Explore the portfolio of Rehan, a full-stack developer and creative technologist specializing in interactive web experiences, 3D animations, and innovative projects. Discover my latest work, including Coding Ducks, The Booking Desk, Ghostchat, and more. Let's build something amazing together!",
     short:
-      "Discover the portfolio of Naresh, a full-stack developer creating interactive web experiences and innovative projects.",
+      "Discover the portfolio of Rehan, a full-stack developer creating interactive web experiences and innovative projects.",
   },
   keywords: [
-    "Naresh",
+    "Rehan",
     "portfolio",
     "full-stack developer",
     "creative technologist",
@@ -23,23 +23,23 @@ const config = {
     "Spline",
     "Framer Motion",
   ],
-  author: "Naresh Khatri",
-  email: "naresh.khatri2345@gmail.com",
-  site: "https://nareshkhatri.site",
+  author: "Rehan Haque",
+  email: "rehan.haque@hsccom",
+  site: "www.linkedin.com/in/rehan-haque-781909222",
 
   // for github stars button
-  githubUsername: "naresh-khatri",
-  githubRepo: "3d-portfolio",
+  githubUsername: "RehanHQ",
+  githubRepo: "portfolio_2026",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://x.com/nothotchaddi",
-    linkedin: "https://www.linkedin.com/in/naresh-khatri/",
-    instagram: "https://www.instagram.com/hotchaddi",
-    facebook: "https://www.facebook.com/HotChaddi/",
-    github: "https://github.com/Naresh-Khatri",
+    twitter: "https://x.com/rehan_4real",
+    linkedin: "www.linkedin.com/in/rehan-haque-781909222",
+    instagram: "https://www.instagram.com/rayhan.hque",
+    facebook: "https://www.facebook.com/rehanhaque.786",
+    github: "https://github.com/RehanHQ",
   },
 };
 export { config };
