@@ -36,7 +36,7 @@ const config = {
   },
   social: {
     twitter: "https://x.com/rehan_4real",
-    linkedin: "www.linkedin.com/in/rehan-haque-781909222",
+    linkedin: "https://www.linkedin.com/in/rehan-haque-781909222",
     instagram: "https://www.instagram.com/rayhan.hque",
     facebook: "https://www.facebook.com/rehanhaque.786",
     github: "https://github.com/RehanHQ",
