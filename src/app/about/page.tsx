@@ -39,12 +39,12 @@ import { VscCode } from "react-icons/vsc";
 import { Splide, SplideSlide } from "@splidejs/react-splide";
 import "@splidejs/react-splide/css";
 import { TbTerminal2 } from "react-icons/tb";
-
+const EMAIL = "rehan.haque@hsc.com";
 const CONTACT_LINKS = [
   {
     name: "Email",
-    content: "rehan.haque@hsc.com",
-    href: "mailto:rehan.haque@hsc.com",
+    content: EMAIL,
+    href: "mailto:${EMAIL}",
     icon: <FaEnvelope height={"50px"} />,
   },
   {
